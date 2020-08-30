@@ -20,3 +20,43 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1 , .cat2 , .cat3{
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background: blue;
+}
+.getagories h1{
+    color: white;
+    
+}
+.getagories img{
+    width: 100px;
+    
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey ;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#foysalvhai{
+    height: 300px;
+    
+}
+#foysalvhai h6{
+    color: gray;
+}
+footer{
+
+    text-align: center;
+}
